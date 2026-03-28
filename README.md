@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Maitra-blue?logo=linkedin&style=flat-square" /></a>
   <a href="https://github.com/Srj0210"><img src="https://img.shields.io/github/followers/Srj0210?label=Follow&style=social" /></a>
-  <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Portfolio-srjahir.in-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-srjahir.in-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -138,7 +138,7 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 | [:wrench: **tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
 | [:chart_with_upwards_trend: **markets-srj**](https://github.com/Srj0210/markets-srj) | Real-time stock market data service | `JavaScript` |
 | [:whale: **docker-nginx-ci**](https://github.com/Srj0210/docker-nginx-ci) | Docker + Nginx CI/CD pipeline | `Docker` |
-| [:globe_with_meridians: **srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal portfolio website | `HTML` |
+| [:globe_with_meridians: **srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal website on GitHub Pages | `HTML` |
 
 </div>
 
@@ -150,7 +150,7 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://srjahir.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
