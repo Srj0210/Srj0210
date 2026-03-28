@@ -1,0 +1,127 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d9ff"/>
+      <stop offset="100%" style="stop-color:#0078d4"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b35"/>
+      <stop offset="100%" style="stop-color:#f7c948"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.05">
+    <line x1="0" y1="0" x2="0" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="60" y1="0" x2="60" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="120" y1="0" x2="120" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="180" y1="0" x2="180" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="240" y1="0" x2="240" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="360" y1="0" x2="360" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="420" y1="0" x2="420" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="480" y1="0" x2="480" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="540" y1="0" x2="540" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="600" y1="0" x2="600" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="660" y1="0" x2="660" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="720" y1="0" x2="720" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="780" y1="0" x2="780" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="840" y1="0" x2="840" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="900" y1="0" x2="900" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="960" y1="0" x2="960" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="1020" y1="0" x2="1020" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="1080" y1="0" x2="1080" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="1140" y1="0" x2="1140" y2="400" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="60" x2="1200" y2="60" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="120" x2="1200" y2="120" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="180" x2="1200" y2="180" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="240" x2="1200" y2="240" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="0" y1="360" x2="1200" y2="360" stroke="#00d9ff" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="950" cy="80" r="120" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.08"/>
+  <circle cx="950" cy="80" r="80" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.12"/>
+  <circle cx="950" cy="80" r="40" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.15"/>
+  <circle cx="150" cy="350" r="100" fill="none" stroke="#0078d4" stroke-width="1" opacity="0.08"/>
+  <circle cx="150" cy="350" r="60" fill="none" stroke="#0078d4" stroke-width="1" opacity="0.12"/>
+
+  <!-- Tech boxes - right side -->
+  <g transform="translate(880, 140)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#232f3e" stroke="#ff9900" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="11" fill="#ff9900" text-anchor="middle" font-weight="bold">AWS</text>
+  </g>
+  <g transform="translate(950, 180)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#0db7ed" fill-opacity="0.15" stroke="#0db7ed" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="8" fill="#0db7ed" text-anchor="middle" font-weight="bold">DOCKER</text>
+  </g>
+  <g transform="translate(1020, 130)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#326ce5" fill-opacity="0.15" stroke="#326ce5" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="10" fill="#326ce5" text-anchor="middle" font-weight="bold">K8s</text>
+  </g>
+  <g transform="translate(1090, 180)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#7b42bc" fill-opacity="0.15" stroke="#7b42bc" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="9" fill="#7b42bc" text-anchor="middle" font-weight="bold">TF</text>
+  </g>
+  <g transform="translate(1020, 240)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#d24939" fill-opacity="0.15" stroke="#d24939" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="8" fill="#d24939" text-anchor="middle" font-weight="bold">CI/CD</text>
+  </g>
+  <g transform="translate(880, 250)" opacity="0.7">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#fcc624" fill-opacity="0.15" stroke="#fcc624" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="8" fill="#fcc624" text-anchor="middle" font-weight="bold">LINUX</text>
+  </g>
+  <g transform="translate(950, 290)" opacity="0.6">
+    <rect x="0" y="0" width="50" height="50" rx="10" fill="#3776ab" fill-opacity="0.15" stroke="#3776ab" stroke-width="1.5"/>
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="9" fill="#3776ab" text-anchor="middle" font-weight="bold">PY</text>
+  </g>
+
+  <!-- Connection lines -->
+  <line x1="930" y1="165" x2="950" y2="180" stroke="#00d9ff" stroke-width="0.5" opacity="0.3"/>
+  <line x1="1000" y1="205" x2="1020" y2="240" stroke="#00d9ff" stroke-width="0.5" opacity="0.3"/>
+  <line x1="1045" y1="180" x2="1045" y2="130" stroke="#00d9ff" stroke-width="0.5" opacity="0.3"/>
+  <line x1="930" y1="275" x2="950" y2="290" stroke="#00d9ff" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="80" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="52" fill="#ffffff" font-weight="bold">Suraj Maitra</text>
+  
+  <!-- Title -->
+  <text x="80" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#00d9ff" font-weight="600">Cloud &amp; DevOps Engineer</text>
+
+  <!-- Separator -->
+  <rect x="80" y="190" width="120" height="3" rx="2" fill="url(#accent2)"/>
+
+  <!-- Description -->
+  <text x="80" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#8b949e">Building &amp; Scaling Real Production Systems on AWS</text>
+  <text x="80" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#8b949e">4 Live Services  |  Docker  |  Kubernetes  |  Terraform  |  CI/CD</text>
+
+  <!-- Tags -->
+  <rect x="80" y="285" width="90" height="30" rx="15" fill="#00d9ff" fill-opacity="0.12" stroke="#00d9ff" stroke-width="1"/>
+  <text x="125" y="305" font-family="Arial, sans-serif" font-size="12" fill="#00d9ff" text-anchor="middle">srjahir.in</text>
+  
+  <rect x="180" y="285" width="80" height="30" rx="15" fill="#0078d4" fill-opacity="0.12" stroke="#0078d4" stroke-width="1"/>
+  <text x="220" y="305" font-family="Arial, sans-serif" font-size="12" fill="#0078d4" text-anchor="middle">GitHub</text>
+  
+  <rect x="270" y="285" width="85" height="30" rx="15" fill="#0a66c2" fill-opacity="0.12" stroke="#0a66c2" stroke-width="1"/>
+  <text x="312" y="305" font-family="Arial, sans-serif" font-size="12" fill="#0a66c2" text-anchor="middle">LinkedIn</text>
+
+  <rect x="365" y="285" width="70" height="30" rx="15" fill="#f7c948" fill-opacity="0.12" stroke="#f7c948" stroke-width="1"/>
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="12" fill="#f7c948" text-anchor="middle">Rajkot</text>
+
+  <!-- Quote -->
+  <text x="80" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#58a6ff" font-style="italic">"I don't just learn DevOps — I run real systems in production."</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="397" width="1200" height="3" fill="url(#accent)"/>
+</svg>
