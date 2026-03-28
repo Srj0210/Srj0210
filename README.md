@@ -1,4 +1,10 @@
-# Hey Everyone \ud83d\udc4b, I'm Suraj Maitra
+<div align="center">
+  <img src="https://github.com/Srj0210/Srj0210/raw/main/Banner.svg" alt="Suraj Maitra Banner" width="100%" />
+</div>
+
+<br/>
+
+# Hey Everyone :wave:, I'm Suraj Maitra
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+%26+Scaling+Real+Systems;2%2B+Years+Hands-On+Experience" alt="Typing SVG" />
@@ -17,32 +23,32 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### A passionate Cloud & DevOps Engineer from India \ud83c\uddee\ud83c\uddf3
+### A passionate Cloud & DevOps Engineer from India :india:
 
 I build, deploy and maintain **real production systems** on AWS. I run **4 live websites & services** on cloud servers that I personally set up and manage end-to-end.
 
-- \ud83d\udd2d All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
-- \ud83c\udf10 Check out my live work at [srjahir.in](https://srjahir.in)
-- \ud83d\udcac Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
-- \ud83d\udceb How to reach me: **surajmaitra@gmail.com**
-- \u26a1 Fun fact: I transitioned from running a business to engineering cloud systems \u2014 bringing **ownership mindset** to every pipeline I build
+- :telescope: All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
+- :globe_with_meridians: Check out my live work at [srjahir.in](https://srjahir.in)
+- :speech_balloon: Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
+- :mailbox: How to reach me: **surajmaitra@gmail.com**
+- :zap: Fun fact: I transitioned from running a business to engineering cloud systems — bringing **ownership mindset** to every pipeline I build
 
 <br clear="both"/>
 
 ---
 
-## \ud83c\udf10 Live Projects \u2014 Running on My Own Cloud Servers
+## :globe_with_meridians: Live Projects — Running on My Own Cloud Servers
 
 | Project | URL | Description |
 |---------|-----|-------------|
-| \ud83c\udfe0 **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main website with multiple services on a single cloud server. Domain, DNS & HTTPS configured from scratch |
-| \ud83d\udee0\ufe0f **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform \u2014 optimized for speed & stability |
-| \ud83e\udd16 **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service open to users on the internet |
-| \ud83d\udcc8 **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app \u2014 built, debugged & maintained by me |
+| :house: **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main website with multiple services on a single cloud server. Domain, DNS & HTTPS configured from scratch |
+| :hammer_and_wrench: **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform — optimized for speed & stability |
+| :robot: **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service open to users on the internet |
+| :chart_with_upwards_trend: **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app — built, debugged & maintained by me |
 
 ---
 
-## \ud83d\udee0\ufe0f Languages & Tools
+## :hammer_and_wrench: Languages & Tools
 
 <div align="center">
 
@@ -52,11 +58,102 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 ---
 
-## \u2601\ufe0f Cloud & DevOps Expertise
+## :cloud: Cloud & DevOps Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### AWS Infrastructure
-- Built full VPC with public/private subnets, route
+- Built full VPC with public/private subnets, route tables & security groups
+- Launched EC2 instances with proper IAM roles & access policies
+- Hosted static content on S3, delivered via CloudFront
+
+</td>
+<td width="50%" valign="top">
+
+### Docker & Kubernetes
+- Built Docker images, pushed to registry & deployed on Amazon ECS
+- Created EKS clusters & deployed apps using K8s manifests
+- Configured load balancers for external accessibility
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Serverless & Automation
+- Built automated file processing with S3 events + Lambda
+- Python scripts for server automation tasks
+- IAM roles with least privilege access
+
+</td>
+<td width="50%" valign="top">
+
+### Monitoring & CI/CD
+- Grafana & Prometheus for infrastructure monitoring
+- Jenkins pipelines for automated deployments
+- Terraform for Infrastructure as Code
+
+</td>
+</tr>
+</table>
+
+---
+
+## :bar_chart: GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srj0210&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srj0210&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srj0210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## :fire: Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Srj0210/cloudai.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=cloudai.srjahir.in&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Srj0210/api.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=api.srjahir.in&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Srj0210/tools.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=tools.srjahir.in&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Srj0210/markets-srj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=markets-srj&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Srj0210/docker-nginx-ci"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=docker-nginx-ci&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+## :handshake: Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://srjahir.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srj0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  
+> *"I don't just learn DevOps — I run real systems in production. Every project here is live, deployed, and maintained by me."*
+
+</div>
