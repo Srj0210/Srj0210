@@ -105,16 +105,24 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srj0210&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srj0210&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srj0210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+<br/>
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srj0210&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srj0210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srj0210&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srj0210&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srj0210&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srj0210&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
@@ -123,11 +131,14 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 <div align="center">
 
-<a href="https://github.com/Srj0210/cloudai.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=cloudai.srjahir.in&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Srj0210/api.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=api.srjahir.in&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Srj0210/tools.srjahir.in"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=tools.srjahir.in&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Srj0210/markets-srj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=markets-srj&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Srj0210/docker-nginx-ci"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Srj0210&repo=docker-nginx-ci&theme=tokyonight&hide_border=true" /></a>
+| Repository | Description | Tech |
+|:----------:|:-----------:|:----:|
+| [:robot: **cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service open to users | `JavaScript` |
+| [:gear: **api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering srjahir services | `Python` |
+| [:wrench: **tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
+| [:chart_with_upwards_trend: **markets-srj**](https://github.com/Srj0210/markets-srj) | Real-time stock market data service | `JavaScript` |
+| [:whale: **docker-nginx-ci**](https://github.com/Srj0210/docker-nginx-ci) | Docker + Nginx CI/CD pipeline | `Docker` |
+| [:globe_with_meridians: **srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal portfolio website | `HTML` |
 
 </div>
 
