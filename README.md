@@ -48,6 +48,81 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 ---
 
+## :rocket: DevOps Portfolio Projects
+
+Four hands-on projects that cover the core of modern DevOps work — CI/CD, observability, infrastructure as code, and container orchestration. Each one runs end-to-end, has a proper README, and is built to be studied, tested, and extended.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### :gear: [CI/CD Pipeline with GitHub Actions](https://github.com/Srj0210/cicd-pipeline)
+
+A 7-stage automated pipeline for a containerized Flask API. Every push to main runs linting, unit tests, Dockerfile checks, multi-stage image build, Trivy security scan, integration tests, and a push to GitHub Container Registry.
+
+**Stack:** GitHub Actions · Docker · Python · Flake8 · Pytest · Hadolint · Trivy · GHCR
+
+**Highlights:**
+- Multi-stage Docker build with non-root user
+- Security scanning on every commit
+- Integration tests that hit real endpoints
+- Protected registry push on main branch only
+
+</td>
+<td width="50%" valign="top">
+
+### :bar_chart: [Docker Monitoring Stack](https://github.com/Srj0210/monitoring-stack)
+
+A complete Prometheus + Grafana + Alertmanager stack that spins up with one `docker-compose up`. Includes Node Exporter, cAdvisor, a demo Python app with custom metrics, and 7 pre-configured alert rules.
+
+**Stack:** Prometheus · Grafana · Alertmanager · Node Exporter · cAdvisor · Docker Compose
+
+**Highlights:**
+- Auto-provisioned Grafana dashboard (8 panels)
+- Scrapes host, containers, and app metrics
+- Alert rules for CPU, memory, disk, errors, latency
+- Persistent volumes for metric history
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### :cloud: [Terraform AWS Infrastructure](https://github.com/Srj0210/terraform-aws-infra)
+
+Production-grade AWS environment as modular Terraform code. VPC with public/private subnets across two AZs, ECS Fargate behind an ALB, a hardened bastion host, and S3 + CloudFront for static hosting.
+
+**Stack:** Terraform · AWS (VPC, ECS, ALB, EC2, S3, CloudFront, IAM)
+
+**Highlights:**
+- Clean module separation (vpc, ecs, ec2, security-groups, static-hosting)
+- Private subnets + NAT Gateway — no public IPs on workloads
+- IMDSv2, encrypted volumes, least-privilege IAM
+- CloudFront with Origin Access Control on S3
+
+</td>
+<td width="50%" valign="top">
+
+### :ship: [Kubernetes Microservices App](https://github.com/Srj0210/k8s-microservices)
+
+A 3-service architecture on Minikube — a Flask gateway, a Flask backend, and Redis — wired up with service discovery, health probes, resource limits, and horizontal pod autoscaling.
+
+**Stack:** Kubernetes · Minikube · Docker · Python · Flask · Redis
+
+**Highlights:**
+- Proper health probes (liveness + readiness)
+- HPA that scales backend based on CPU
+- ConfigMaps for environment config
+- Self-healing demo — kill a pod and watch it recover
+
+</td>
+</tr>
+</table>
+
+A complete walkthrough of all four projects — setup, testing, and architecture — is in the **[DevOps Projects Guide (PDF)](https://github.com/Srj0210/cicd-pipeline/blob/main/DevOps_Projects_Guide.pdf)**.
+
+---
+
 ## :hammer_and_wrench: Languages & Tools
 
 <div align="center">
@@ -133,6 +208,10 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 
 | Repository | Description | Tech |
 |:----------:|:-----------:|:----:|
+| [:gear: **cicd-pipeline**](https://github.com/Srj0210/cicd-pipeline) | 7-stage CI/CD pipeline with GitHub Actions | `Python` `Docker` |
+| [:bar_chart: **monitoring-stack**](https://github.com/Srj0210/monitoring-stack) | Prometheus + Grafana + Alertmanager stack | `Docker` `YAML` |
+| [:cloud: **terraform-aws-infra**](https://github.com/Srj0210/terraform-aws-infra) | Modular AWS infrastructure as code | `Terraform` `HCL` |
+| [:ship: **k8s-microservices**](https://github.com/Srj0210/k8s-microservices) | 3-service Kubernetes app with HPA | `Kubernetes` `Python` |
 | [:robot: **cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service open to users | `JavaScript` |
 | [:gear: **api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering srjahir services | `Python` |
 | [:wrench: **tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
