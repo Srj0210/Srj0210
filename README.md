@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hey Everyone :wave:, I'm Suraj Maitra
+# Suraj Maitra
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+%26+Scaling+Real+Systems;2%2B+Years+Hands-On+Experience" alt="Typing SVG" />
@@ -23,40 +23,40 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### A passionate Cloud & DevOps Engineer from India :india:
+### Cloud & DevOps Engineer from India
 
 I build, deploy and maintain **real production systems** on AWS. I run **4 live websites & services** on cloud servers that I personally set up and manage end-to-end.
 
-- :telescope: All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
-- :globe_with_meridians: Check out my live work at [srjahir.in](https://srjahir.in)
-- :speech_balloon: Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
-- :mailbox: How to reach me: **surajmaitra@gmail.com**
-- :zap: Fun fact: I transitioned from running a business to engineering cloud systems — bringing **ownership mindset** to every pipeline I build
+- All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
+- Check out my live work at [srjahir.in](https://srjahir.in)
+- Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
+- Reach me at **surajmaitra@gmail.com**
+- I transitioned from running a business to engineering cloud systems — bringing an **ownership mindset** to every pipeline I build
 
 <br clear="both"/>
 
 ---
 
-## :globe_with_meridians: Live Projects — Running on My Own Cloud Servers
+## Live Projects — Running on My Own Cloud Servers
 
 | Project | URL | Description |
 |---------|-----|-------------|
-| :house: **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main website with multiple services on a single cloud server. Domain, DNS & HTTPS configured from scratch |
-| :hammer_and_wrench: **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform — optimized for speed & stability |
-| :robot: **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service open to users on the internet |
-| :chart_with_upwards_trend: **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app — built, debugged & maintained by me |
+| **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main website with multiple services on a single cloud server. Domain, DNS & HTTPS configured from scratch |
+| **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform — optimized for speed & stability |
+| **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service open to users on the internet |
+| **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app — built, debugged & maintained by me |
 
 ---
 
-## :rocket: DevOps Portfolio Projects
+## DevOps Portfolio Projects
 
-Four hands-on projects that cover the core of modern DevOps work — CI/CD, observability, infrastructure as code, and container orchestration. Each one runs end-to-end, has a proper README, and is built to be studied, tested, and extended.
+Four hands-on projects covering the core of modern DevOps work — CI/CD, observability, infrastructure as code, and container orchestration. Each one runs end-to-end, has a proper README, and is built to be studied, tested, and extended.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### :gear: [CI/CD Pipeline with GitHub Actions](https://github.com/Srj0210/cicd-pipeline)
+### [CI/CD Pipeline with GitHub Actions](https://github.com/Srj0210/cicd-pipeline)
 
 A 7-stage automated pipeline for a containerized Flask API. Every push to main runs linting, unit tests, Dockerfile checks, multi-stage image build, Trivy security scan, integration tests, and a push to GitHub Container Registry.
 
@@ -71,7 +71,7 @@ A 7-stage automated pipeline for a containerized Flask API. Every push to main r
 </td>
 <td width="50%" valign="top">
 
-### :bar_chart: [Docker Monitoring Stack](https://github.com/Srj0210/monitoring-stack)
+### [Docker Monitoring Stack](https://github.com/Srj0210/monitoring-stack)
 
 A complete Prometheus + Grafana + Alertmanager stack that spins up with one `docker-compose up`. Includes Node Exporter, cAdvisor, a demo Python app with custom metrics, and 7 pre-configured alert rules.
 
@@ -88,7 +88,7 @@ A complete Prometheus + Grafana + Alertmanager stack that spins up with one `doc
 <tr>
 <td width="50%" valign="top">
 
-### :cloud: [Terraform AWS Infrastructure](https://github.com/Srj0210/terraform-aws-infra)
+### [Terraform AWS Infrastructure](https://github.com/Srj0210/terraform-aws-infra)
 
 Production-grade AWS environment as modular Terraform code. VPC with public/private subnets across two AZs, ECS Fargate behind an ALB, a hardened bastion host, and S3 + CloudFront for static hosting.
 
@@ -103,7 +103,7 @@ Production-grade AWS environment as modular Terraform code. VPC with public/priv
 </td>
 <td width="50%" valign="top">
 
-### :ship: [Kubernetes Microservices App](https://github.com/Srj0210/k8s-microservices)
+### [Kubernetes Microservices App](https://github.com/Srj0210/k8s-microservices)
 
 A 3-service architecture on Minikube — a Flask gateway, a Flask backend, and Redis — wired up with service discovery, health probes, resource limits, and horizontal pod autoscaling.
 
@@ -123,7 +123,24 @@ A complete walkthrough of all four projects — setup, testing, and architecture
 
 ---
 
-## :hammer_and_wrench: Languages & Tools
+## Open Source Projects
+
+### [Life Dots — Android Live Wallpaper](https://github.com/Srj0210/LifeDotsWallpaper)
+
+A minimal, battery-friendly Android live wallpaper that visualizes your year as 365 dots — one for each day. Built with Kotlin and the Android WallpaperService API. AMOLED-optimized with bitmap caching for zero lag and minimal battery impact. MIT licensed and open-source.
+
+**Stack:** Kotlin · Android WallpaperService · Canvas API · AndroidX
+
+**Highlights:**
+- 365 dots organized by month, auto-updates at midnight
+- 365+ daily motivational quotes
+- Pure black AMOLED background saves battery on OLED screens
+- Bitmap caching ensures it only redraws once per day
+- No internet, no permissions, no background services
+
+---
+
+## Languages & Tools
 
 <div align="center">
 
@@ -133,7 +150,7 @@ A complete walkthrough of all four projects — setup, testing, and architecture
 
 ---
 
-## :cloud: Cloud & DevOps Expertise
+## Cloud & DevOps Expertise
 
 <table>
 <tr>
@@ -176,7 +193,7 @@ A complete walkthrough of all four projects — setup, testing, and architecture
 
 ---
 
-## :bar_chart: GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -202,28 +219,28 @@ A complete walkthrough of all four projects — setup, testing, and architecture
 
 ---
 
-## :fire: Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
 | Repository | Description | Tech |
 |:----------:|:-----------:|:----:|
-| [:gear: **cicd-pipeline**](https://github.com/Srj0210/cicd-pipeline) | 7-stage CI/CD pipeline with GitHub Actions | `Python` `Docker` |
-| [:bar_chart: **monitoring-stack**](https://github.com/Srj0210/monitoring-stack) | Prometheus + Grafana + Alertmanager stack | `Docker` `YAML` |
-| [:cloud: **terraform-aws-infra**](https://github.com/Srj0210/terraform-aws-infra) | Modular AWS infrastructure as code | `Terraform` `HCL` |
-| [:ship: **k8s-microservices**](https://github.com/Srj0210/k8s-microservices) | 3-service Kubernetes app with HPA | `Kubernetes` `Python` |
-| [:robot: **cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service open to users | `JavaScript` |
-| [:gear: **api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering srjahir services | `Python` |
-| [:wrench: **tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
-| [:chart_with_upwards_trend: **markets-srj**](https://github.com/Srj0210/markets-srj) | Real-time stock market data service | `JavaScript` |
-| [:whale: **docker-nginx-ci**](https://github.com/Srj0210/docker-nginx-ci) | Docker + Nginx CI/CD pipeline | `Docker` |
-| [:globe_with_meridians: **srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal website on GitHub Pages | `HTML` |
+| [**cicd-pipeline**](https://github.com/Srj0210/cicd-pipeline) | 7-stage CI/CD pipeline with GitHub Actions | `Python` `Docker` |
+| [**monitoring-stack**](https://github.com/Srj0210/monitoring-stack) | Prometheus + Grafana + Alertmanager stack | `Docker` `YAML` |
+| [**terraform-aws-infra**](https://github.com/Srj0210/terraform-aws-infra) | Modular AWS infrastructure as code | `Terraform` `HCL` |
+| [**k8s-microservices**](https://github.com/Srj0210/k8s-microservices) | 3-service Kubernetes app with HPA | `Kubernetes` `Python` |
+| [**LifeDotsWallpaper**](https://github.com/Srj0210/LifeDotsWallpaper) | Android live wallpaper — 365 dots, one per day | `Kotlin` `Android` |
+| [**cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service open to users | `JavaScript` |
+| [**api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering srjahir services | `Python` |
+| [**tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
+| [**markets-srj**](https://github.com/Srj0210/markets-srj) | Real-time stock market data service | `JavaScript` |
+| [**srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal website on GitHub Pages | `HTML` |
 
 </div>
 
 ---
 
-## :handshake: Connect with Me
+## Connect with Me
 
 <div align="center">
 
