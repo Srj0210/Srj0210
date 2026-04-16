@@ -119,7 +119,7 @@ A 3-service architecture on Minikube — a Flask gateway, a Flask backend, and R
 </tr>
 </table>
 
-A complete walkthrough of all four projects — setup, testing, and architecture — is in the **[DevOps Projects Guide (PDF)](https://github.com/Srj0210/cicd-pipeline/blob/main/DevOps_Projects_Guide.pdf)**.
+A complete walkthrough of all four projects — setup, testing, and architecture — is in the **[DevOps Projects Guide (PDF)](https://github.com/Srj0210/Srj0210/blob/main/DevOps_Projects_Guide.pdf)**.
 
 ---
 
