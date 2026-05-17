@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Maitra-blue?logo=linkedin&style=flat-square" /></a>
   <a href="https://github.com/Srj0210"><img src="https://img.shields.io/github/followers/Srj0210?label=Follow&style=social" /></a>
   <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-srjahir.in-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -30,7 +30,7 @@ I build, deploy and maintain **real production systems** on AWS. I run **4 live 
 - All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
 - Check out my live work at [srjahir.in](https://srjahir.in)
 - Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
-- Reach me at **surajmaitra@gmail.com**
+- Reach me at **surajmaitra1996@gmail.com**
 - I transitioned from running a business to engineering cloud systems — bringing an **ownership mindset** to every pipeline I build
 
 <br clear="both"/>
@@ -245,7 +245,7 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 <div align="center">
 
 <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
