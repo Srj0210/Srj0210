@@ -270,16 +270,18 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 <div align="center">
 
 | Repository | Description | Tech |
-|:----------:|:-----------:|:----:|
+|:----------:|:------------|:----:|
 | [**cicd-pipeline**](https://github.com/Srj0210/cicd-pipeline) | 7-stage CI/CD pipeline with GitHub Actions | `Python` `Docker` |
-| [**monitoring-stack**](https://github.com/Srj0210/monitoring-stack) | Prometheus + Grafana + Alertmanager stack | `Docker` `YAML` |
-| [**terraform-aws-infra**](https://github.com/Srj0210/terraform-aws-infra) | Modular AWS infrastructure as code | `Terraform` `HCL` |
-| [**k8s-microservices**](https://github.com/Srj0210/k8s-microservices) | 3-service Kubernetes app with HPA | `Kubernetes` `Python` |
-| [**LifeDotsWallpaper**](https://github.com/Srj0210/LifeDotsWallpaper) | Android live wallpaper — 365 dots, one per day | `Kotlin` `Android` |
-| [**cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service open to users | `JavaScript` |
-| [**api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering srjahir services | `Python` |
+| [**monitoring-stack**](https://github.com/Srj0210/monitoring-stack) | Prometheus + Grafana + Alertmanager observability stack | `Docker` `YAML` |
+| [**terraform-aws-infra**](https://github.com/Srj0210/terraform-aws-infra) | Modular, production-grade AWS infrastructure as code | `Terraform` `HCL` |
+| [**k8s-microservices**](https://github.com/Srj0210/k8s-microservices) | 3-service Kubernetes app with horizontal pod autoscaling | `Kubernetes` `Python` |
+| [**api.srjahir.in**](https://github.com/Srj0210/api.srjahir.in) | Backend API powering the srjahir.in services | `Python` |
+| [**cloudai.srjahir.in**](https://github.com/Srj0210/cloudai.srjahir.in) | Live AI-powered service, open to the internet | `JavaScript` |
 | [**tools.srjahir.in**](https://github.com/Srj0210/tools.srjahir.in) | Public utility platform | `HTML` |
 | [**markets-srj**](https://github.com/Srj0210/markets-srj) | Real-time stock market data service | `JavaScript` |
+| [**inti-brain**](https://github.com/Srj0210/inti-brain) | MCP server bridging AI assistants to a REST API | `Python` `MCP` |
+| [**power-manager**](https://github.com/Srj0210/power-manager) | Smart PC power management — auto-shutdown automation | `Python` |
+| [**LifeDotsWallpaper**](https://github.com/Srj0210/LifeDotsWallpaper) | Android live wallpaper — 365 dots, one per day | `Kotlin` `Android` |
 | [**srjahir.github.io**](https://github.com/Srj0210/srjahir.github.io) | Personal website on GitHub Pages | `HTML` |
 
 </div>
