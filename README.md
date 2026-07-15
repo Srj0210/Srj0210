@@ -1,85 +1,97 @@
 <div align="center">
-  <img src="https://github.com/Srj0210/Srj0210/raw/main/Banner.svg" alt="Suraj Maitra Banner" width="100%" />
+  <img src="https://github.com/Srj0210/Srj0210/raw/main/Banner.svg" alt="Suraj Maitra — Cloud & DevOps Engineer" width="100%" />
 </div>
-
-<br/>
-
-# Suraj Maitra
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+%26+Scaling+Real+Systems;2%2B+Years+Hands-On+Experience" alt="Typing SVG" />
+  <a href="https://srjahir.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;I+run+real+production+systems+on+AWS;Building+%26+Scaling+Real+Systems" alt="Cloud & DevOps Engineer" />
+  </a>
 </div>
-
-<br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Maitra-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://github.com/Srj0210"><img src="https://img.shields.io/github/followers/Srj0210?label=Follow&style=social" /></a>
-  <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-srjahir.in-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Maitra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Srj0210"><img src="https://img.shields.io/github/followers/Srj0210?label=Follow&style=social" alt="Follow" /></a>
+  <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-srjahir.in-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Srj0210&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" width="380" alt="Cloud engineering" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### Cloud & DevOps Engineer from India
+### ☁️ Cloud & DevOps Engineer from India
 
-I build, deploy and maintain **real production systems** on AWS. I run **4 live websites & services** on cloud servers that I personally set up and manage end-to-end.
+I design, deploy and operate **real production systems** on AWS — not lab demos. Right now I run **4 live websites & services** on cloud servers I set up and manage end-to-end: provisioning, DNS, HTTPS, monitoring, backups — the whole loop.
 
-- All of my projects are available at [github.com/Srj0210](https://github.com/Srj0210)
-- Check out my live work at [srjahir.in](https://srjahir.in)
-- Ask me about **AWS, Docker, Kubernetes & Cloud Infrastructure**
-- Reach me at **surajmaitra1996@gmail.com**
-- I transitioned from running a business to engineering cloud systems — bringing an **ownership mindset** to every pipeline I build
+- 🔭 I keep **4 live services** running on my own cloud infra → **[srjahir.in](https://srjahir.in)**
+- 🌱 Going deep on **AWS, Docker, Kubernetes & Infrastructure as Code**
+- 💬 Ask me about **cloud architecture, CI/CD & container orchestration**
+- ⚡ I moved into engineering from running a business, so I bring an **ownership mindset** to every pipeline I ship
+- 📫 Reach me at **surajmaitra@gmail.com**
 
 <br clear="both"/>
 
 ---
 
-## Live Projects — Running on My Own Cloud Servers
+## 🚀 Live Projects — Running on My Own Cloud
 
-| Project | URL | Description |
-|---------|-----|-------------|
-| **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main website with multiple services on a single cloud server. Domain, DNS & HTTPS configured from scratch |
-| **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform — optimized for speed & stability |
-| **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service open to users on the internet |
-| **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app — built, debugged & maintained by me |
+<div align="center">
+
+| Status | Project | Live URL | What it is |
+|:------:|---------|----------|------------|
+| 🟢 | **SRJahir Tech** | [srjahir.in](https://srjahir.in) | Main site hosting multiple services on one cloud server — domain, DNS & HTTPS set up from scratch |
+| 🟢 | **Tools Platform** | [tools.srjahir.in](https://tools.srjahir.in) | Public utility platform, tuned for speed & stability |
+| 🟢 | **CloudAI** | [cloudai.srjahir.in](https://cloudai.srjahir.in) | Live AI-powered service, open to the internet |
+| 🟢 | **Stocks Service** | [stocks.srjahir.in](https://stocks.srjahir.in) | Real-time stock data app — built, debugged & maintained solo |
+
+</div>
 
 ---
 
-## DevOps Portfolio Projects
+## 🛠️ DevOps Portfolio Projects
 
-Four hands-on projects covering the core of modern DevOps work — CI/CD, observability, infrastructure as code, and container orchestration. Each one runs end-to-end, has a proper README, and is built to be studied, tested, and extended.
+Four hands-on projects covering the core of modern DevOps work — CI/CD, observability, infrastructure as code, and container orchestration. Each one runs end-to-end, ships with a proper README, and is built to be studied, tested, and extended.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [CI/CD Pipeline with GitHub Actions](https://github.com/Srj0210/cicd-pipeline)
+### [⚙️ CI/CD Pipeline with GitHub Actions](https://github.com/Srj0210/cicd-pipeline)
 
-A 7-stage automated pipeline for a containerized Flask API. Every push to main runs linting, unit tests, Dockerfile checks, multi-stage image build, Trivy security scan, integration tests, and a push to GitHub Container Registry.
+A 7-stage automated pipeline for a containerized Flask API. Every push to `main` runs linting, unit tests, Dockerfile checks, a multi-stage image build, a Trivy security scan, integration tests, and a push to GitHub Container Registry.
 
-**Stack:** GitHub Actions · Docker · Python · Flake8 · Pytest · Hadolint · Trivy · GHCR
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 **Highlights:**
-- Multi-stage Docker build with non-root user
+- Multi-stage Docker build with a non-root user
 - Security scanning on every commit
 - Integration tests that hit real endpoints
-- Protected registry push on main branch only
+- Registry push protected to the `main` branch only
 
 </td>
 <td width="50%" valign="top">
 
-### [Docker Monitoring Stack](https://github.com/Srj0210/monitoring-stack)
+### [📈 Docker Monitoring Stack](https://github.com/Srj0210/monitoring-stack)
 
-A complete Prometheus + Grafana + Alertmanager stack that spins up with one `docker-compose up`. Includes Node Exporter, cAdvisor, a demo Python app with custom metrics, and 7 pre-configured alert rules.
+A complete Prometheus + Grafana + Alertmanager stack that spins up with one `docker-compose up`. Ships with Node Exporter, cAdvisor, a demo Python app with custom metrics, and 7 pre-configured alert rules.
 
-**Stack:** Prometheus · Grafana · Alertmanager · Node Exporter · cAdvisor · Docker Compose
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 **Highlights:**
 - Auto-provisioned Grafana dashboard (8 panels)
-- Scrapes host, containers, and app metrics
+- Scrapes host, container, and app metrics
 - Alert rules for CPU, memory, disk, errors, latency
 - Persistent volumes for metric history
 
@@ -88,11 +100,16 @@ A complete Prometheus + Grafana + Alertmanager stack that spins up with one `doc
 <tr>
 <td width="50%" valign="top">
 
-### [Terraform AWS Infrastructure](https://github.com/Srj0210/terraform-aws-infra)
+### [🏗️ Terraform AWS Infrastructure](https://github.com/Srj0210/terraform-aws-infra)
 
-Production-grade AWS environment as modular Terraform code. VPC with public/private subnets across two AZs, ECS Fargate behind an ALB, a hardened bastion host, and S3 + CloudFront for static hosting.
+A production-grade AWS environment as modular Terraform code. VPC with public/private subnets across two AZs, ECS Fargate behind an ALB, a hardened bastion host, and S3 + CloudFront for static hosting.
 
-**Stack:** Terraform · AWS (VPC, ECS, ALB, EC2, S3, CloudFront, IAM)
+<p>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
+</p>
 
 **Highlights:**
 - Clean module separation (vpc, ecs, ec2, security-groups, static-hosting)
@@ -103,70 +120,83 @@ Production-grade AWS environment as modular Terraform code. VPC with public/priv
 </td>
 <td width="50%" valign="top">
 
-### [Kubernetes Microservices App](https://github.com/Srj0210/k8s-microservices)
+### [☸️ Kubernetes Microservices App](https://github.com/Srj0210/k8s-microservices)
 
 A 3-service architecture on Minikube — a Flask gateway, a Flask backend, and Redis — wired up with service discovery, health probes, resource limits, and horizontal pod autoscaling.
 
-**Stack:** Kubernetes · Minikube · Docker · Python · Flask · Redis
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
 
 **Highlights:**
 - Proper health probes (liveness + readiness)
-- HPA that scales backend based on CPU
+- HPA that scales the backend on CPU
 - ConfigMaps for environment config
-- Self-healing demo — kill a pod and watch it recover
+- Self-healing demo — kill a pod, watch it recover
 
 </td>
 </tr>
 </table>
 
-A complete walkthrough of all four projects — setup, testing, and architecture — is in the **[DevOps Projects Guide (PDF)](https://github.com/Srj0210/Srj0210/blob/main/DevOps_Projects_Guide.pdf)**.
+<div align="center">
+  <a href="https://github.com/Srj0210/Srj0210/blob/main/DevOps_Projects_Guide.pdf">
+    <img src="https://img.shields.io/badge/Full%20DevOps%20Projects%20Guide-PDF-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="DevOps Projects Guide PDF" />
+  </a>
+</div>
 
 ---
 
-## Open Source Projects
+## 📱 Open Source
 
-### [Life Dots — Android Live Wallpaper](https://github.com/Srj0210/LifeDotsWallpaper)
+### [🟢 Life Dots — Android Live Wallpaper](https://github.com/Srj0210/LifeDotsWallpaper)
 
-A minimal, battery-friendly Android live wallpaper that visualizes your year as 365 dots — one for each day. Built with Kotlin and the Android WallpaperService API. AMOLED-optimized with bitmap caching for zero lag and minimal battery impact. MIT licensed and open-source.
+A minimal, battery-friendly Android live wallpaper that visualizes your year as 365 dots — one for each day. Built with Kotlin and the Android `WallpaperService` API. AMOLED-optimized with bitmap caching for zero lag and minimal battery impact. MIT licensed and open-source.
 
-**Stack:** Kotlin · Android WallpaperService · Canvas API · AndroidX
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/AndroidX-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-00D9FF?style=flat-square" />
+</p>
 
-**Highlights:**
 - 365 dots organized by month, auto-updates at midnight
 - 365+ daily motivational quotes
 - Pure black AMOLED background saves battery on OLED screens
-- Bitmap caching ensures it only redraws once per day
+- Bitmap caching redraws only once per day
 - No internet, no permissions, no background services
 
 ---
 
-## Languages & Tools
+## 🧰 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,python,git,nginx,grafana,prometheus,github,bash,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,python,bash,git,github,nginx,grafana,prometheus,helm,redis,vscode&perline=9" alt="Tech stack" />
 
 </div>
 
 ---
 
-## Cloud & DevOps Expertise
+## 🧠 Cloud & DevOps Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AWS Infrastructure
-- Built full VPC with public/private subnets, route tables & security groups
-- Launched EC2 instances with proper IAM roles & access policies
-- Hosted static content on S3, delivered via CloudFront
+### 🟠 AWS Infrastructure
+- Full VPC with public/private subnets, route tables & security groups
+- EC2 instances with proper IAM roles & access policies
+- Static hosting on S3, delivered via CloudFront
 
 </td>
 <td width="50%" valign="top">
 
-### Docker & Kubernetes
+### 🔵 Docker & Kubernetes
 - Built Docker images, pushed to registry & deployed on Amazon ECS
-- Created EKS clusters & deployed apps using K8s manifests
+- Created EKS clusters & deployed apps with K8s manifests
 - Configured load balancers for external accessibility
 
 </td>
@@ -174,15 +204,15 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 <tr>
 <td width="50%" valign="top">
 
-### Serverless & Automation
-- Built automated file processing with S3 events + Lambda
+### ⚡ Serverless & Automation
+- Automated file processing with S3 events + Lambda
 - Python scripts for server automation tasks
-- IAM roles with least privilege access
+- IAM roles built around least-privilege access
 
 </td>
 <td width="50%" valign="top">
 
-### Monitoring & CI/CD
+### 📊 Monitoring & CI/CD
 - Grafana & Prometheus for infrastructure monitoring
 - Jenkins pipelines for automated deployments
 - Terraform for Infrastructure as Code
@@ -193,18 +223,16 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srj0210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=Srj0210&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srj0210&theme=tokyonight" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srj0210&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
 
 <div align="center">
@@ -213,13 +241,31 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srj0210&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srj0210&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srj0210&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srj0210&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-## Featured Repositories
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srj0210/Srj0210/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srj0210/Srj0210/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Srj0210/Srj0210/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 📌 Featured Repositories
 
 <div align="center">
 
@@ -240,27 +286,21 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 
 ---
 
-## Connect with Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srj0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <i>💬 &nbsp;"I don't just learn DevOps — I run real systems in production.<br/>Every project here is live, deployed, and maintained by me."</i>
 </div>
 
----
-
-<div align="center">
-  
-> *"I don't just learn DevOps — I run real systems in production. Every project here is live, deployed, and maintained by me."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=120&section=footer" width="100%" alt="" />
