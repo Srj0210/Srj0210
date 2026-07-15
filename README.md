@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Maitra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Srj0210"><img src="https://img.shields.io/github/followers/Srj0210?label=Follow&style=social" alt="Follow" /></a>
   <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-srjahir.in-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Email-surajmaitra1996%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Srj0210&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 </div>
 
@@ -28,7 +28,7 @@ I design, deploy and operate **real production systems** on AWS — not lab demo
 - 🌱 Going deep on **AWS, Docker, Kubernetes & Infrastructure as Code**
 - 💬 Ask me about **cloud architecture, CI/CD & container orchestration**
 - ⚡ I moved into engineering from running a business, so I bring an **ownership mindset** to every pipeline I ship
-- 📫 Reach me at **surajmaitra@gmail.com**
+- 📫 Reach me at **surajmaitra1996@gmail.com**
 
 <br clear="both"/>
 
@@ -293,7 +293,7 @@ A minimal, battery-friendly Android live wallpaper that visualizes your year as 
 <div align="center">
 
 <a href="https://linkedin.com/in/suraj-maitra-066934161"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:surajmaitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:surajmaitra1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://srjahir.in"><img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/Srj0210"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
